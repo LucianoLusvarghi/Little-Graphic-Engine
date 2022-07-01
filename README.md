@@ -14,7 +14,7 @@
 
 **Archetypes**: the logic and implementation of an archetype model together with the ECS (Entity - Component - System) model to use in the "engine".
 
-
+Programming language: C++
 
 ### The LUA functions that can be used for Scripting are in the README of the folder "script"
 
